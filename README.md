@@ -104,3 +104,24 @@ __double underscores__
 ~~cancelline~~  
 
 \* 문자나 \_ 문자를 사용할 수 있다.
+
+![Alt text](https://user-images.githubusercontent.com/78400598/109108704-5ec95b00-7777-11eb-97b4-d845f5572d2a.jpg)
+![Alt text](https://user-images.githubusercontent.com/78400598/109108704-5ec95b00-7777-11eb-97b4-d845f5572d2a.jpg "Heaven")
+
+<img src="https://user-images.githubusercontent.com/78400598/109108704-5ec95b00-7777-11eb-97b4-d845f5572d2a.jpg" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/78400598/109108704-5ec95b00-7777-11eb-97b4-d845f5572d2a.jpg" width="40%" height="30%">
+
+|제목|내용|비고|
+|-----|---|---|
+|1번 제목 / 제목 / 제목 / 제목|1번 내용 / 내용 / 내용 / 내용|1번 비고 / 비고 / 비고 / 비고|
+|2번 제목|2번 내용|2번 비고|
+|3번 제목|3번 내용|3번 비고|
+|4번 제목|4번 내용|4번 비고|
+
+제목|내용|비고
+:---|---:|:---:
+1번 제목 / 제목 / 제목 / 제목|1번 내용 / 내용 / 내용 / 내용|1번 비고 / 비고 / 비고 / 비고
+2번 제목|*2번 내용*|2번 비고
+3번 제목|**3번 내용**|3번 비고
+4번 제목|~~4번 내용~~|4번 비고
+
